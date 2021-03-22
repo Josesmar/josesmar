@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h2 align="center">Hello World! :earth_americas:</h2>
 
 <a href="#">
-    <img src="https://github.com/Josesmar/blob/master/assets/days.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
+    <img src="https://github.com/Josesmar/josesmar/blob/main/coding.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
 </a>
 
 :department_store: I'm currently working on <a href="https://spdata.com.br/">spdata</a> as Analyst Developer.
