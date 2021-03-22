@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="center">Hello World! :earth_americas:</h2>
+
+<a href="#">
+    <img src="https://github.com/Josesmar/blob/master/assets/days.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
+</a>
+
+:department_store: I'm currently working on <a href="https://spdata.com.br/">spdata</a> as Analyst Developer.
+<br />
+:heart: I'm passionate about tech, music, games of course my family!
+<br />
+:speech_balloon: Ask me about anything <a href="https://github.com/josesmar/issues">here.</a>
+<br />
+
+
+<a href="https://api.whatsapp.com/send?phone=5531991409937">
+    <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white" title="Text me" align="right" alt="Whatsapp">
+</a>
+
+<a href="mailto:josesmargds@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" title="Send me an email" align="right" alt="Gmail">
+</a>
+
+<a href="https://www.linkedin.com/in/josesmar">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
+</a>
+
