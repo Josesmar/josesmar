@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br />
 :heart: I'm passionate about tech, music, games of course my family!
 <br />
-:speech_balloon: Ask me about anything <a href="https://github.com/josesmar/issues">here.</a>
+:speech_balloon: Ask me about anything <a href="https://github.com/Josesmar/josesmar/issues">here.</a>
 <br />
 
 
