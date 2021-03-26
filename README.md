@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 :department_store: I'm currently working on <a href="https://spdata.com.br/">spdata</a> as Analyst Developer.
 <br />
-:heart: ❤️ I am passionate about technology, music, guitar, games, of course, my family!
+:heart: I am passionate about technology, music, guitar, games, of course, my family!
 <br />
 :speech_balloon: Ask me about anything <a href="https://github.com/Josesmar/josesmar/issues">here.</a>
 <br />
