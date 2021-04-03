@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hello World! :mundo.png:</h2>
+<h2 align="center">Hello World! :earth_americas:</h2>
 
 <a href="#">
     <img src="https://github.com/Josesmar/josesmar/blob/main/coding.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
