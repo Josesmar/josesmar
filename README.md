@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" title="Send me an email" align="right" alt="Gmail">
 </a>
 
-<a href="https://www.linkedin.com/in/josesmar">
+<a href="https://www.linkedin.com/in/josesmar-santos-7bb53241/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
 </a>
 
