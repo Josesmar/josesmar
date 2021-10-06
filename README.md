@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/Josesmar/josesmar/blob/main/coding.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
 </a>
 
-:department_store: I'm currently working on <a href="https://www.bancointer.com.br/">Inter</a> as Java Developer.
+:department_store: I'm currently working on <a href="https://www.bancointer.com.br/">Inter</a> as Software Developer.
 <br />
 :heart: I am passionate about technology, music, guitar, games, of course, my family!
 <br />
